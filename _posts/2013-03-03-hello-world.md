@@ -5,9 +5,7 @@ title : Hello, world!
 
 Hello, world!  
 
-{% highlight ruby %}  
-def foo  
-  puts 'foo'  
-end  
+{% highlight C %}  
+int main (int argc, char *argv[])
 {% endhighlight %}
 
